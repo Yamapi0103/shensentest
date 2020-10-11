@@ -7,7 +7,7 @@
         <div class="icon_text_wrap">
           <img class="white_menu02" src="@/assets/images/white_menu_02.svg" />
           <p>
-            多張保單地址 / 電話 /
+            多張保單地址 / 電話 / fff
             <br>Email變更
           </p>
         </div>
